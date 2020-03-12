@@ -1,0 +1,54 @@
+
+.signup_form{
+    margin-left: 40px;
+    width: 20vw;
+    margin-bottom: 1em;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+.signup_form label{
+	float: left;
+	clear: left;
+	margin-bottom: 1em;
+	margin-right: 2vw;
+	margin-left: 2vw;
+}
+.signup_form input{
+	float: left;
+	clear: left;
+	margin-bottom: 1em;
+	margin-right: 2vw;
+	margin-left: 2vw;
+}
+.signup_form input[name="register"]{
+	background-color: #3665f3;
+	color: white;
+	flex-grow: 0;
+	margin-left: auto;
+	font-size: 1.2em;
+	padding: 0.2em;
+	cursor: pointer;
+	border: 0;
+	margin-bottom: 1em;
+	margin-right: 2vw;
+	margin-left: 2vw;
+}
+.signup_form .loginbtn {
+	background-color: #3665f3;
+	color: white;
+	flex-grow: 0;
+	margin-left: auto;
+	font-size: 1.2em;
+	padding: 0.2em;
+	cursor: pointer;
+	border: 0;
+	margin-bottom: 1em;
+	margin-right: 2vw;
+	margin-left: 2vw;
+}
+
+.field textarea[name= product_description] {
+	width: 50%;
+	margin-left: 20%;
+
+}
